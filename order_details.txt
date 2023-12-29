@@ -1,0 +1,6 @@
+Nama Pemesan: sdasd
+Sate Ayam x2 - 30000.0
+Total: 30000.0
+
+Total Bayar: 30000.0
+Kembalian: 0.0
